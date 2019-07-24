@@ -28,3 +28,4 @@ For example, if i want to download the season 2 of Lyrical Nanoha : http://www.a
 This script works by parsing the webpage to get the ID of every episode, asking the server to auth the IP, the server will answer a delay $x in seconds, we wait $x+5 seconds, we ask the server again, the server should answer the URL of the file we want to download. We HAVE to wait, or else the server will not give the download URL. -> If you want to learn more about this, read the .sh file, you should be able to understand how it's working.
   
 (sorry for my bad english, feel free to correct me)
+And i know, the code is very, very dirty, i'm sorry about this. I'm gonna rewrite this in VB.NET (or maybe in Python, idk), i promise it's gonna be less dirty.
