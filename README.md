@@ -20,7 +20,7 @@ To use it, you need :
 (*grep*, *sed*, *iconv* and *cut* should already be installed on your distro) 
 
 Usage :  
-```./anime-ultime-dler.sh url_to_anime_episodes_list```
+```./anime-ultime-dler.sh url_to_anime_episodes_list```  
 For example, if i want to download the season 2 of Lyrical Nanoha : http://www.anime-ultime.net/file-0-1/2426/Mahou-Shoujo-Lyrical-Nanoha-A039s-vostfr  
 ```./anime-ultime-dler.sh http://www.anime-ultime.net/file-0-1/2426/Mahou-Shoujo-Lyrical-Nanoha-A039s-vostfr```
   
