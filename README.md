@@ -5,7 +5,7 @@ WARNING : at the moment, this script does NOT do any kind of error handling.
 Also, at the moment, this script can only download a whole season, you can skip every ep that you don't want to download, but you have to give/use the link for the full season.  
 - if the URL contains `file-*-*` (* = numbers), it's the link for the full season, you CAN use this  
 (example : http://www.anime-ultime.net/file-0-1/2426/Mahou-Shoujo-Lyrical-Nanoha-A039s-vostfr)
-- if the URL contains `info-*-*` (* = numbers), it's the link for only on ep, you CAN'T use this
+- if the URL contains `info-*-*` (* = numbers), it's the link for only on ep, you CANNOT use this
 (exmaple : http://www.anime-ultime.net/info-0-1/24348/Mahou-Shoujo-Lyrical-Nanoha-A039s-01-vostfr)
 
 To use it, you need :
